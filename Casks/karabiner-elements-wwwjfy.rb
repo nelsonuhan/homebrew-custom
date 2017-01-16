@@ -1,6 +1,6 @@
 cask 'karabiner-elements-wwwjfy' do
   version '0.90.76'
-  sha256 '9ea22b9cc04789a677de1936689e13d7ffc18826f18a48d9988e6e6a65601574'
+  sha256 'b69147bd22c7f988c25e2d53fb679b771bf502dc7453bd5c09b72b1c887a829b'
 
   url "https://github.com/wwwjfy/Karabiner-Elements/releases/download/#{version}/Karabiner-Elements-#{version}.dmg"
   name 'Karabiner Elements'
